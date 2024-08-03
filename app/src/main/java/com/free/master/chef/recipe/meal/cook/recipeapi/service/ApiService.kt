@@ -9,7 +9,6 @@ interface ApiService {
     @GET("categories.php")
     suspend fun getCategories(): CategoryResponse
 }
-
 object ApiClient{
     private val retrofit = Retrofit.Builder()
         .baseUrl(Constant.BASE_URL)

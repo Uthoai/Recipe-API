@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.RecipeAPI" parent="Base.Theme.RecipeAPI" />
+
+    <style name="Toolbar" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">RecipeAPI</string>
+    <string name="app_name">Master Chef Recipe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="navigation_view_header_title">Master Chef Recipe</string>
+    <string name="item_name">Item Name</string>
 </resources>
