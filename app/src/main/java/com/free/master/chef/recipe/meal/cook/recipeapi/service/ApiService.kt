@@ -1,5 +1,6 @@
 package com.free.master.chef.recipe.meal.cook.recipeapi.service
 
+import com.free.master.chef.recipe.meal.cook.recipeapi.utils.Constant
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
